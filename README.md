@@ -1,1 +1,5 @@
 # Caravan-Insurance-Policy-Purchase-Prediction
+The objective of this machine learning project is to develop and implement a predictive model that can accurately forecast whether which customer characteristics are important to predict whether a customer is likely to purchase the insurance policy.
+By analysing historical customer data and identifying key patterns and correlations, the model aims to provide reliable predictions about customer behaviour. This will enable more efficient targeting and personalization of insurance products, ultimately enhancing customer engagement and increasing sales effectiveness.
+The project seeks to leverage advanced machine learning techniques to gain deeper insights into customer preferences and decision-making processes, facilitating more informed and strategic business decisions in the insurance domain.
+The project utilises hypothesis testing and other statistical analysis to reduce computational and human resources expenditure while retaining the rate of prediction for target customers.
